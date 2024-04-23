@@ -1,5 +1,7 @@
 # LOL-Auto-Dodger-tool
-A tool for League of Legends that allows you to manage a list of summoners names, in order to avoid finding "toxic" players more than once!
+
+League of Legends doesn't show anymore summoner names during champ select, so the tool is basically useless. It can be used in draft if you want lol
+~~A tool for League of Legends that allows you to manage a list of summoners names, in order to avoid finding "toxic" players more than once!~~
 
 - Q & A:
 -------------------------------------------------------------------------------------------------------------------
