@@ -26,7 +26,7 @@ A: You can export your list in the "Options", and then you can import it back by
 Q: Is the tool free?
 
 A: Yes! It is completely free-to-use. Though, I would appreciate a donation if you want to support me!
-PAYPAL: https://www.paypal.com/donate/?hosted_button_id=YBN88Z9QE7XEC
+PAYPAL: https://paypal.me/exokyh?country.x=IT&locale.x=it_IT
 -------------------------------------------------------------------------------------------------------------------
 
 Have fun with the tool! :)
